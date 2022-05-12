@@ -1,0 +1,15 @@
+﻿  Exception.cpp
+  Money.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(93,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(94,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(112,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(113,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+  MyException.cpp
+  Pair.cpp
+  Source.cpp
+  Generating Code...
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(160): warning C4715: 'Money::operator>': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(216): warning C4715: 'Money::operator>=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(247): warning C4715: 'Money::operator<=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\PR5.1D\Money.cpp(185): warning C4715: 'Money::operator<': not all control paths return a value
+  PR5.1D.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1D\Debug\PR5.1D.exe
